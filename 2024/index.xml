@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024s on 이름 적는 칸에 hnw 라고 적는 사람</title>
+    <link>/2024/</link>
+    <description>Recent content in 2024s on 이름 적는 칸에 hnw 라고 적는 사람</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>© 2024 hnw</copyright>
+    <lastBuildDate>Sat, 02 Jul 2022 04:56:51 +0900</lastBuildDate><atom:link href="/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>/2024/ini/</link>
+      <pubDate>Sat, 02 Jul 2022 04:56:51 +0900</pubDate>
+      
+      <guid>/2024/ini/</guid>
+      <description>대충 1년동안 사이트 만드는데 필요한 내용을 알아보니깐 Nginx와 Hugo 가지고 돌아가는 사이트가 나오긴 나왔다.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
